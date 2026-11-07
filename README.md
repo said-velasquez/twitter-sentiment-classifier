@@ -58,5 +58,5 @@ Python, pandas, NumPy, NLTK, scikit-learn, Matplotlib, Seaborn, Jupyter.
 
 ## Author
 
-**Said Velásquez**, Computer Engineering student at Universidad UNIE (Madrid).
+**Said Velásquez**, Computer Engineering student based in Madrid.
 [LinkedIn](https://www.linkedin.com/in/said-vel%C3%A1squez-650905333) · [GitHub](https://github.com/said-velasquez)
