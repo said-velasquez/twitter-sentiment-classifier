@@ -22,10 +22,10 @@ A 4-class sentiment model for tweets (Positive, Negative, Neutral, Irrelevant) b
 | Accuracy (4 classes) | **68%** |
 | F1 Negative | 0.74 |
 | F1 Positive | 0.71 |
-| F1 Neutral | 0.65 |
+| F1 Neutral | 0.64 |
 | F1 Irrelevant | 0.59 |
 
-The confusion matrix shows that most errors come from the overlap between **Neutral** and **Irrelevant** tweets, which use very similar language.
+Most errors involve the Irrelevant class: the model recognizes only 51% of these tweets and spreads the rest across the other three classes. Neutral tweets are also often confused with Negative and Positive.
 
 ## Project structure
 
